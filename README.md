@@ -1,7 +1,8 @@
 
 # first if not working then install it globally or locally 
-# after then
+
 npm install -g json-server
+# after then
 
 # Getting Started with json sever second------
 npx json-server --watch db.json
