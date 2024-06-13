@@ -6,34 +6,6 @@
       "amount": "35",
       "payer": "rohitashva",
       "date": "2024-05-13"
-    },
-    {
-      "id": "4d2c",
-      "description": "apples",
-      "amount": "66",
-      "payer": "mohit",
-      "date": "2024-05-15"
-    },
-    {
-      "id": "07f9",
-      "description": "apples",
-      "amount": "66",
-      "payer": "rohitashva",
-      "date": "2024-05-17"
-    },
-    {
-      "id": "7476",
-      "description": "apples",
-      "amount": "44",
-      "payer": "mohit",
-      "date": "2024-05-09"
-    },
-    {
-      "id": "a2ee",
-      "description": "apples",
-      "amount": "45",
-      "payer": "rohitashva",
-      "date": "2024-05-22"
     }
   ]
 }
