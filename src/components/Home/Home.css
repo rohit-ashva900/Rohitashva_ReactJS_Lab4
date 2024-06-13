@@ -1,0 +1,76 @@
+/* Home.css */
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #73d28e;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+.expense-list {
+  margin-top: 20px;
+}
+
+.expense-item {
+  background-color: #fff;
+  margin-bottom: 10px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.expense-item p {
+  margin: 0;
+}
+
+.total-summary {
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.total-summary h2,
+.total-summary h3 {
+  margin: 0 0 10px;
+  color: #333;
+}
+
+.total-summary ul {
+  list-style: none;
+  padding: 0;
+}
+
+.total-summary ul li {
+  margin: 5px 0;
+}
+
+.add-expense-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  margin: 20px auto;
+  font-size: 16px;
+  text-align: center;
+  transition: background-color 0.3s;
+}
+
+.add-expense-button:hover {
+  background-color: #0056b3;
+}
